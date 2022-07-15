@@ -1,0 +1,15 @@
+@media (min-width:584px),(max-width:740px) {
+    .container {
+        max-width: 100%;
+    }
+}
+    form .user-details .input-box {
+        margin-bottom: 15px;
+        width: 100%;
+    }
+
+     .but{
+        margin-bottom: 15px;
+        width: auto;
+        flex-wrap: wrap;
+}
